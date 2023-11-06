@@ -92,4 +92,11 @@ Homepage           |  List View        | Edit View
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://i.ibb.co/DYZpjBV/Reminder-Homepage.png" width="200">|  <img src="https://i.ibb.co/hZRK2W9/Reminder-List.png" width="200">|  <img src="https://i.ibb.co/4fVcVr0/Reminder-Edit.png" width="200">
 
+|Test Case ID|Purpose   |Steps   |Expected Result   |Actual Result   |Pass/Fail   |Comments   |
+|---|---|---|---|---|---|---|
+|TC01   |Validate user login   |1.Enter username and password. <br />2. Click login   |Successful login and dashboard displayed   |   |   |   |
+|TC02   |Check reminder creation   |1.Navigate to reminders. <br />2. Create a new reminder   |New reminder is added to the list   |   |   |   |
+|TC03   |Check Invalid Login   |1.Open app. <br />2. Enter invalid username and password   |Error message displayed   |   |   |Error message should be clear and helpful.   |
+|TC04   |Test Reminder Notification   |1.Create a reminder with an alert. <br />2. Wait for the alert time   |Notification is received at the correct time   |   |   |Test with phone locked and unlocked.   |
+
 

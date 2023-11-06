@@ -25,7 +25,7 @@ The software must operate in devices that support Android API level 24 or above.
 
 
 ### 2.1 Component Diagram
-<img src="https://i.ibb.co/zR0z0hY/component.png">
+<img src="https://i.ibb.co/zR0z0hY/component.png" width=50% height=50%>
 
 This diagram consists of five classes, which represents the overall structure of the reminders application. The reminderList will require the reminderType which consists of the reminders class. This is illustrated by having the socket(require) and lollipop(provide) stem from reminderList to reminderType. The three classes: repeat, GPS and alert will be used by the reminders class. 
 

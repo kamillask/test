@@ -25,6 +25,7 @@ The software must operate in devices that support Android API level 24 or above.
 
 
 ### 2.1 Component Diagram
+<img src="https://i.ibb.co/zR0z0hY/component.png">
 
 This diagram consists of five classes, which represents the overall structure of the reminders application. The reminderList will require the reminderType which consists of the reminders class. This is illustrated by having the socket(require) and lollipop(provide) stem from reminderList to reminderType. The three classes: repeat, GPS and alert will be used by the reminders class. 
 
@@ -47,11 +48,11 @@ Within the deployment diagram, there is SQL (Structured Query Language) which al
 
 
 ### 3.1 Class Diagram
-
+<img src="https://i.ibb.co/JQ38dgX/design-team.png">
 
 ### 3.2 Other Diagrams
 
-**Sequence Behavioral diagram**
+<img src="https://i.ibb.co/NtC3bFt/Sequence-Behavioral-Diagram.png">
 
 This diagram provides the sequential steps or the behavioral flow of the reminder application. It documents the use case where a user opens the reminder app and has the option to create a reminder type or a reminder. The reminder list is organized based on the exclusive reminder types. The user has the option to set alert, GPS, and repeat behavior. After the user finishes setting up the reminder, they have the option to put inside a reminder type. 
 

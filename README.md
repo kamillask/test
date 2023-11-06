@@ -90,9 +90,5 @@ Manages location data for location-based reminders. Operation is to set the loca
 ## 4 User Interface Design
 
 <img src="https://i.ibb.co/DYZpjBV/Reminder-Homepage.png" width="200">
-
-![App Screenshot](https://i.ibb.co/DYZpjBV/Reminder-Homepage.png)
-
-![App Screenshot](https://i.ibb.co/hZRK2W9/Reminder-List.png)
-
-![App Screenshot](https://i.ibb.co/4fVcVr0/Reminder-Edit.png)
+<img src="https://i.ibb.co/hZRK2W9/Reminder-List.png" width="200">
+<img src="https://i.ibb.co/4fVcVr0/Reminder-Edit.png" width="200">

@@ -25,13 +25,13 @@ The software must operate in devices that support Android API level 24 or above.
 
 
 ### 2.1 Component Diagram
-<img src="https://i.ibb.co/zR0z0hY/component.png" width=50% height=50%>
+<img src="https://i.ibb.co/zR0z0hY/component.png">
 
 This diagram consists of five classes, which represents the overall structure of the reminders application. The reminderList will require the reminderType which consists of the reminders class. This is illustrated by having the socket(require) and lollipop(provide) stem from reminderList to reminderType. The three classes: repeat, GPS and alert will be used by the reminders class. 
 
 
 ### 2.2 Deployment Diagram
-<img src="https://i.ibb.co/JKgTLz4/deployment.png">
+<img src="https://i.ibb.co/JKgTLz4/deployment.png" width=50% height=50%>
 
 This diagram shows the structure of the reminder application. This diagram showcases three nodes which includes Android device, Web Server and Reminder App DB. Inside the application file of the Android device we have the RemindersApp.apk. Format apk is an android package which allows the device to install and distribute files of an app. This is an archive file and it holds other secondary files such as UI. The Android Device node is connected to the Web Server node. It is connected using a “HTTPS” to represent communication protocols as well as safety features. The Web Server consists of a component called “Methods” which represents a resource where the app is executed. The Web Server node is connected to the Reminder App DB. The SQL is used to connect both nodes. This is used to represent the communication between software components and the reminder app database. 
 

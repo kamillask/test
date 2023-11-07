@@ -53,7 +53,7 @@ Within the deployment diagram, there is SQL (Structured Query Language) which al
 
 ### 3.2 Other Diagrams
 
-<img src="https://i.ibb.co/NtC3bFt/Sequence-Behavioral-Diagram.png">
+<img src="https://i.ibb.co/vvdfgsd/re-design.png">
 
 This diagram provides the sequential steps or the behavioral flow of the reminder application. It documents the use case where a user opens the reminder app and has the option to create a reminder type or a reminder. The reminder list is organized based on the exclusive reminder types. The user has the option to set alert, GPS, and repeat behavior. After the user finishes setting up the reminder, they have the option to put inside a reminder type. 
 

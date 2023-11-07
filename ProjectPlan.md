@@ -46,6 +46,8 @@ The product we are delivering is a reminders app, that will allow the user to cr
 
 - **Software Engineer:** assesses the needs of the program, creates designs, and eventually writes code that satisfies the projects requirements.
 
+- **Project Manager:** oversees the creation of the program, and plans out steps for the members of the group.
+
 | Kamil Laskowski|Jonathan Flores |Hannah Kurian  |Luocheng Lin      |Wentao Ge        |
 |:-------------:|:-------------:  |:-------------:|:-------------:   |:-------------:  |
-|UI Engineer    |Database Engineer|QA             |Software Developer|Software Engineer|
+|UI Engineer, Project Manager    |Database Engineer|QA             |Software Developer|Software Engineer|

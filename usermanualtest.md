@@ -70,3 +70,13 @@ Sometimes reminders or lists may not appear upon adding them. To solve this, res
 
 If you run into any bugs that are not addressed here, create an issue on our GitHub page, and we will work on it as soon as possible.
 ## 10. License
+
+[Kamil Laskowski](https://github.com/kamillask)
+
+[Jonathan Flores](https://github.com/JonathanF226)
+
+[Hannah Kurian](https://github.com/HMKurian)
+
+[Wentao Ge](https://github.com/EliasAlinworse)
+
+[Luocheng Lin](https://github.com/kiralins)

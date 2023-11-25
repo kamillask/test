@@ -48,15 +48,11 @@ You can now go back to the home page, where you will see your newly created Remi
 After clicking the plus, you will see a page with a drop down menu, a field to create a new Reminder Type, a field for the Reminder Name, and a toggle to choose if you want your reminder to be given a time, and a field to set that time. The drop down menu allows your to select a Reminder Type that you have already created, and if you want to create a new type, you can simply enter it in the Reminder Type field, and when you create the reminder with that type, it will also save that type for use for future reminders.
 ## 5. UI Overview
 
-<img src="insert ibb link here" width=50% height=50%>
-
-width/height not necessary
-
-Homepage           |  List View        | Edit View
+Lists View           |  View List       | Add Reminder
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="insert ibb link here" width="200">|  <img src="insert ibb link here" width="200">|  <img src="insert ibb link here" width="200">
+<img src="https://i.ibb.co/my2Pr4S/Lists.png" width="200">|  <img src="https://i.ibb.co/d4BzWNK/View-Reminders.png" width="200">|  <img src="https://i.ibb.co/DG2nH1b/Add-Reminder.png" width="200">
 
-table view if needed to make pictures more oragnized.
+
 ## 6. Features
 
 - Create a Reminder List

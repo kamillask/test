@@ -35,12 +35,9 @@ The user must be using an Android device that supports an SDK level of at least 
 
 - Go to the settings for your device, scroll down to Apps, press the 3 dots, select "Special Access", select Chrome(if you are downloading the APK from there), select "Install unknown apps", and check on "Allow from this source".
 - Install the app from our GitHub page.
-- Go to your device's file manager, select the RemindersApp APK, and follow the steps to install.
+- Go to your device's file manager, select the RemindersApp APK, and follow the steps to install.[^1]
 
-
-[^1]: Installation step credits: https://www.lifewire.com/install-apk-on-android-4177185
-
-[^2]: Instruction steps might be slightly different for the Android version that you are using.
+[^1]: Installation step credits: https://www.lifewire.com/install-apk-on-android-4177185. Instruction steps might be slightly different for the Android version that you are using.
   
 ## 4. Getting Started
 

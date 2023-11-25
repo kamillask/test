@@ -3,7 +3,26 @@
 
 This user maunal help you get familiar with how to use the RemindersApp, as well as showing you the UI and some common issues/bugs that you may run into.
 
+### Table of Contents
+- [1. Introduction]()
 
+- [2. System Requirements]()
+
+- [3. Installation]()
+
+- [4. Getting Started]()
+
+- [5. UI Overview]()
+
+- [6. Features]()
+
+- [7. Troubleshooting]()
+
+- [8. FAQs]()
+
+- [9. Support]()
+
+- [10. License]()
 
 
 ## 1. Introduction

@@ -28,7 +28,9 @@
 
 - Normal Scenario:
         - The user selects the option to create a new list
+  
         - The user is prompted to name the list
+  
         - The list is added to the list of lists
 
 - Alternate Scenario: (No list)

@@ -33,7 +33,7 @@ If you have completed a reminder, you have the option of checking it off by clic
 
 
 Lists View           |  View List       | Add Reminder          
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://i.ibb.co/my2Pr4S/Lists.png" width="200">|  <img src="https://i.ibb.co/8zmW1Mx/Screenshot-20231203-175143.png" width="200">|  <img src="https://i.ibb.co/DG2nH1b/Add-Reminder.png" width="200">
 
 

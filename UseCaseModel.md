@@ -28,27 +28,19 @@
 
 - Normal Scenario: 
         - The user selects the option to create a new list
-  
         - The user is prompted to name the list
-  
         - The list is added to the list of lists
 
 - Alternate Scenario: (No list)
         - The user does not want to create a new reminder list
-  
         - The user does nothing but if there is no list then the user is not able to add reminders
-  
         - If the user wants to add reminders there needs to be a list first 
 
 - Exceptional Scenario: (No list name)
         - The user selects the option to create a list
-  
         - The user does not want to name the list and wants to save the list with no name
-  
         - There is an error message not allowing the user to enter an empty name as a list name
-  
         - The user is sent back to the main screen
-  
         - The user can choose to create a list again or not
 
 

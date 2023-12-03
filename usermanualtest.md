@@ -41,12 +41,19 @@ Lists View           |  View List       | Add Reminder
 ## 6. Features
 
 - Create a Reminder List
+- 
 - Create a Reminder Type
+- 
 - Create a Reminder
+- 
 - View Reminders in a List
+- 
 - Assign a time and date for a Reminder
+- 
 -Delete a reminder
+
 -Check off a reminder
+
 -Clear all checks from a reminder
 
 ## 7. Troubleshooting

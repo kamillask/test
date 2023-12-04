@@ -2,7 +2,7 @@
 
 **Author**: Group 5
 
-### Version 2: Added the new component diagram, consists of four classes. This new diagram reflects the changes in our app. Added the assumptions(1.1) is updated based on our new changes. Some changes we made include some of our project issues such as deleting reminders/reminder lists. Constraints(1.2) is also updated regarding storing reminders in a hierarchical order. 
+#### Version 2: Added the new component diagram, consists of four classes. This new diagram reflects the changes in our app. Added the assumptions(1.1) is updated based on our new changes. Some changes we made include some of our project issues such as deleting reminders/reminder lists. Constraints(1.2) is also updated regarding storing reminders in a hierarchical order. 
 
 
 

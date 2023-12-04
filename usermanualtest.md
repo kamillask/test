@@ -51,13 +51,13 @@ Lists View           |  View List       | Add Reminder
 
 ## 7. Troubleshooting
 
-Sometimes reminders or lists may not appear upon adding them. To solve this, restart the app and you will see your newly added lists/reminders. 
+Sometimes reminders may not appear upon adding them. To solve this, restart the app and you will see your newly added reminders. 
 
 Deleting reminders is currently not working in this version; it will appear as deleted, but when you come back the reminder returns. This will be fixed in future versions.
 ## 8. FAQs
 
-#### I created a Reminder List/Reminder, but it doesn't show up? Where is it?
-- To solve this, close the app and restart it, and you will see your Reminder List/Reminder.
+#### I created a Reminder, but it doesn't show up? Where is it?
+- To solve this, close the app and restart it, and you will see your Reminder.
 #### I deleted a Reminder, but it comes back after restarting. What is happening?
 - Deleting reminders is currently not working in this version; it will appear as deleted, but when you come back the reminder returns. This will be fixed in future versions.
 ## 9. Support

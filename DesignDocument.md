@@ -33,7 +33,7 @@ This diagram consists of five classes, which represents the overall structure of
 ### 2.2 Deployment Diagram
 <img src="https://i.ibb.co/qDv6W4W/deployment-1.png" width=50% height=50%>
 
-This diagram shows the structure of the reminder application. This diagram showcases three nodes which includes Android device, Web Server and Reminder App DB. Inside the application file of the Android device we have the RemindersApp.apk. Format apk is an android package which allows the device to install and distribute files of an app. This is an archive file and it holds other secondary files such as UI. The Android Device node is connected to the Web Server node. It is connected using a “HTTPS” to represent communication protocols as well as safety features. The Web Server consists of a component called “Methods” which represents a resource where the app is executed. The Web Server node is connected to the Reminder App DB. The SQL is used to connect both nodes. This is used to represent the communication between software components and the reminder app database. 
+This diagram shows the structure of the reminder application. This diagram showcases two nodes which include the Android device and the Reminder App DB. Inside the application file of the Android device we have the RemindersApp.apk. Format apk is an android package which allows the device to install and distribute files of an app. This is an archive file and it holds other secondary files such as UI. The Android Device node is connected to the Reminder App DB. It is connected with SQL, using SQLite. The app sends information to the DB to be stored, and retrieves information from the DB when it is needed.
 
 
 ## 3 Low-Level Design

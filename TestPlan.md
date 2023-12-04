@@ -7,7 +7,7 @@
 
 Our testing strategy for the Reminder App will be focused on manual testing, covering different aspects of the application's functionality. The testing levels will include:
 
-Manual Testing: Testers will manually interact with the application's user interface and features to ensure correct behavior.
+**Manual Testing:** Testers will manually interact with the application's user interface and features to ensure correct behavior.
 
 The testing will be carried out iteratively, with each release cycle going through manual testing to validate the functionality.
 

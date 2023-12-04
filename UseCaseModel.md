@@ -74,33 +74,33 @@
 	- Once the option to delete is pressed the reminder will be deleted from the list of reminders
 
 - Alternate Scenario: (Select a list to view the contents to check-off reminder)
-        - The user wants to check off a reminder
-        - The user will select the list in which the reminder belongs to 
-        - The user will see the reminders in that list  
-        - The user will check off the reminder box
-        - The reminder will not be deleted so it stays in the list but it is now checked off
+	- The user wants to check off a reminder
+	- The user will select the list in which the reminder belongs to 
+	- The user will see the reminders in that list  
+	- The user will check off the reminder box
+	- The reminder will not be deleted so it stays in the list but it is now checked off
 
 - Alternate Scenario: (Select a list to view the contents to clear checked-off marks)
-        - The user wants to clear all checked-off marks so they select the list they want to do that in 
-        - The user will then be shown the reminders which include both checked-off reminders and reminders that are not checked-off
-        - The user will select the option to clear check-off reminders
+	- The user wants to clear all checked-off marks so they select the list they want to do that in 
+	- The user will then be shown the reminders which include both checked-off reminders and reminders that are not checked-off
+	- The user will select the option to clear check-off reminders
         - The reminders with the check-off will no longer have the check 
         - All reminders in that list will not be checked-off 
 
 - Alternate Scenario: (Select a list to add a reminder)
-        - The user selects the list they want to add a reminder in 
+	- The user selects the list they want to add a reminder in 
         - User selects the option to create a reminder
         - User will be prompted to add a name 
         - User will save the reminder and the reminder will be added to the list 
 
 - Alternate Scenario: (Selecting a list to add reminder with reminder type)
-        - User will select the list they want to add a reminder with a reminder type to 
+	- User will select the list they want to add a reminder with a reminder type to 
         - User selects the option to create a reminder
         - User is prompted to write the reminder name and select a reminder type
         - After selecting the user will save the reminder and it will be displayed in the list
 
 - Alternate Scenario: (Selecting a list to add reminder with reminder type, and date)
-        - User will select the list they want to add a reminder with a reminder type to 
+	- User will select the list they want to add a reminder with a reminder type to 
         - User selects the option to create a reminder
         - User is prompted to write the reminder name and select a reminder type
         - User wants to add a date so they toggle on the day alert feature 
@@ -108,7 +108,7 @@
         - After selecting the user will save the reminder and it will be displayed in the list
 
 - Alternate Scenario: (Selecting a list to add reminder with reminder type, date, and time)
-        - User will select the list they want to add a reminder with a reminder type to 
+	- User will select the list they want to add a reminder with a reminder type to 
         - User selects the option to create a reminder
         - User is prompted to write the reminder name and select a reminder type
         - User wants to add a date so they toggle on the day alert feature 
@@ -116,7 +116,7 @@
         - After selecting the user will save the reminder and it will be displayed in the list
 
 - Exceptional Scenario: (No name for reminder)
-        - The user wants to create a reminder so they select the list in which they want the reminder in
+	- The user wants to create a reminder so they select the list in which they want the reminder in
         - The user selects the option to create a reminder
         - The user will select what they want but will not add a reminder name
         - The user will then save the reminder with no name 

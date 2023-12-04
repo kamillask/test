@@ -57,21 +57,21 @@
 **Scenarios:**
 
 - Normal Scenario: (Select a list to view)
-        - The user wants to view the contents in a list so they choose the list 
-        - Once the list is chosen they can see the reminders inside the selected list 
+	- The user wants to view the contents in a list so they choose the list 
+	- Once the list is chosen they can see the reminders inside the selected list 
 	
 - Normal Scenario(Select a list to Delete)
-        - The user wants to delete a list so they choose the list they want to delete by tapping the three dots 
-        - Once the list is selected the user will choose the option to delete the list 
-        - The list will then be deleted 
-        - Once the option to delete is pressed the list will be deleted from the list of lists
+	- The user wants to delete a list so they choose the list they want to delete by tapping the three dots 
+	- Once the list is selected the user will choose the option to delete the list 
+	- The list will then be deleted 
+	- Once the option to delete is pressed the list will be deleted from the list of lists
 	
-	- Alternate Scenario: (Select a list to view the contents to delete a reminder)
-        - The user wants to delete a reminder from a list so they select the list 
-        - The user will be shown the reminders of the selected list 
-        - The user will choose the reminder by tapping the three dots
-        - The user will then choose the option to delete the reminder 
-        - Once the option to delete is pressed the reminder will be deleted from the list of reminders
+- Alternate Scenario: (Select a list to view the contents to delete a reminder)
+	- The user wants to delete a reminder from a list so they select the list 
+	- The user will be shown the reminders of the selected list 
+	- The user will choose the reminder by tapping the three dots
+	- The user will then choose the option to delete the reminder 
+	- Once the option to delete is pressed the reminder will be deleted from the list of reminders
 
 - Alternate Scenario: (Select a list to view the contents to check-off reminder)
         - The user wants to check off a reminder

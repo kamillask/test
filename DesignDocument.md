@@ -25,13 +25,13 @@ The software must operate in devices that support Android API level 24 or above.
 
 
 ### 2.1 Component Diagram
-<img src="https://i.ibb.co/zR0z0hY/component.png">
+<img src="https://i.ibb.co/3h8HH1D/componentdiagram.png">
 
 This diagram consists of five classes, which represents the overall structure of the reminders application. The reminderList will require the reminderType which consists of the reminders class. This is illustrated by having the socket(require) and lollipop(provide) stem from reminderList to reminderType. The three classes: repeat, GPS and alert will be used by the reminders class. 
 
 
 ### 2.2 Deployment Diagram
-<img src="https://i.ibb.co/JKgTLz4/deployment.png" width=50% height=50%>
+<img src="https://i.ibb.co/qDv6W4W/deployment-1.png" width=50% height=50%>
 
 This diagram shows the structure of the reminder application. This diagram showcases three nodes which includes Android device, Web Server and Reminder App DB. Inside the application file of the Android device we have the RemindersApp.apk. Format apk is an android package which allows the device to install and distribute files of an app. This is an archive file and it holds other secondary files such as UI. The Android Device node is connected to the Web Server node. It is connected using a “HTTPS” to represent communication protocols as well as safety features. The Web Server consists of a component called “Methods” which represents a resource where the app is executed. The Web Server node is connected to the Reminder App DB. The SQL is used to connect both nodes. This is used to represent the communication between software components and the reminder app database. 
 
@@ -49,11 +49,11 @@ Within the deployment diagram, there is SQL (Structured Query Language) which al
 
 
 ### 3.1 Class Diagram
-<img src="https://i.ibb.co/JQ38dgX/design-team.png">
+<img src="https://i.ibb.co/HDThkw8/UML-class.png">
 
 ### 3.2 Other Diagrams
 
-<img src="https://i.ibb.co/vvdfgsd/re-design.png">
+<img src="https://i.ibb.co/hHjNyJh/sequencediagram.png">
 
 This diagram provides the sequential steps or the behavioral flow of the reminder application. It documents the use case where a user opens the reminder app and has the option to create a reminder type or a reminder. The reminder list is organized based on the exclusive reminder types. The user has the option to set alert, GPS, and repeat behavior. After the user finishes setting up the reminder, they have the option to put inside a reminder type. 
 

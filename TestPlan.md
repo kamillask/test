@@ -5,18 +5,11 @@
 
 ### 1.1 Overall strategy
 
-Our testing strategy for the Reminder App will encompass multiple levels of testing to ensure that each component functions correctly both in isolation and in conjunction with other components. The testing levels will include:
+Our testing strategy for the Reminder App will be focused on manual testing, covering different aspects of the application's functionality. The testing levels will include:
 
-- Unit Testing: Individual components will be tested to ensure that they perform as expected. This will include testing classes, methods, and functions for the core functionality such as list creation, reminder instantiation, alert setup, and system acknowledgment.
+Manual Testing: Testers will manually interact with the application's user interface and features to ensure correct behavior.
 
-- Integration Testing: After unit testing, we will perform integration tests to verify that the components work together. This will involve testing the interactions between the 'New Reminder List' creation feature, 'Individual Reminder' creation feature, 'Alert Repeat' function, and the acknowledgment signals.
-
-- System Testing: The entire application will be subjected to system testing to ensure that it meets the requirements specified in the sequence behavioral description. This will test the end-to-end functionality of the app, including user interaction flows and system responses.
-
-- Regression Testing: Whenever a new feature is added or an existing feature is modified, regression tests will be performed to ensure that the change has not adversely affected the existing functionality.
-
-The testing will be carried out iteratively, with each release cycle going through the unit, integration, system, and regression tests as needed. The testing team will include software testers for manual testing and software developers for automated test script creation.
-
+The testing will be carried out iteratively, with each release cycle going through manual testing to validate the functionality.
 
 ### 1.2 Test Selection
 

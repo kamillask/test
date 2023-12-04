@@ -2,7 +2,7 @@
 
 **Author**: Group 5
 
-### Version 2: Added, deleted, and edited scenarios based on the *current* app model. The use cases expand the further into the app the user goes as shown in the use case diagram. 
+#### Version 2: Added, deleted, and edited scenarios based on the *current* app model. The use cases expand the further into the app the user goes as shown in the use case diagram. 
 
 
 ## 1 Use Case Diagram

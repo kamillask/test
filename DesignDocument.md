@@ -66,7 +66,7 @@ If the user wants to create a new reminder list, they have to select a reminder 
 If the user wants to create a new reminder, they are prompted to search for the reminder type. Once the reminder type is added, they will be stored inside the reminder list of that type.
 
 
-*Components inside the sequence behavioral diagram*
+### Components inside the sequence behavioral diagram
 
 **ReminderList**
 
